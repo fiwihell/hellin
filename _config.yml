@@ -12,8 +12,8 @@ timezone: Asia/Hong_Kong
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://fiwihell.github.io/hellin 
-root: /hellin/
+url: https://fiwihell.github.io/hellin/docs
+root: /hellin/docs
 permalink: /:year/:month/:day/:title/
 permalink_defaults:
 
